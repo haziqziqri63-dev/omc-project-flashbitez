@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAboutUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCartPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCheckoutPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmContactUs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogInPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMenuPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDealspage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDonatePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHistoryPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSellerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSignInPagecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucNavBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WarmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
